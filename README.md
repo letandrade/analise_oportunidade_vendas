@@ -5,6 +5,8 @@ Em 2022 fui selecionada entre 3k+ pessoas a ingressar na turma de Capacitação 
 
 Ao final da capacitação foi proposto um case técnico de uma empresa fictícia do ramo do varejo, a A-Tech. O case foi um método de obtenção de nota e aprovação, e como resultado ocupei o top 10 das melhores resoluções.
 
+![9° lugar](https://user-images.githubusercontent.com/86376728/229306816-a100b3f5-e67b-4ed6-a012-e8af4c750d92.png)
+
 ### 1.1 Case A - Tech
 
 A empresa A-Tech atua no mercado brasileiro de varejo desde 2005. São 45 lojas físicas distribuídas em diferentes regiões. Cada loja possui diversos departamentos, nos quais as vendas acontecem.
