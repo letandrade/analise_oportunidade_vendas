@@ -1,4 +1,4 @@
-# Análise de oportunidade de vendas
+# Análise de oportunidades de venda
 
 ### 1.0 Descrição
 A empresa A-Tech atua no mercado brasileiro de varejo desde 2005. São 45 lojas físicas distribuídas em diferentes regiões. Cada loja possui diversos departamentos, nos quais as vendas acontecem.
@@ -39,7 +39,14 @@ Os resulatdos do cluster foram aplicados a uma matriz BCG, essa ferramenta permi
   
   ![image](https://user-images.githubusercontent.com/86376728/229304969-9e58ee05-0cb7-41a8-84f6-bdc4e3472cd8.png)
   
- ### 3.3 Modelo de previsão da venda do cluster 0 e do cluster 4
+ ### 3.3 Modelo de previsão da venda média das lojas do cluster 0 e do cluster 4
+  
+Para fazer a previsão de vendas média das lojas do cluster 0 e 4 para os próximos 6 meses utilizei o modelo de séries temporal ARIMA e para encontrar o modelo ARIMA ideal apliquei a função autoarima. 
+  
+![image](https://user-images.githubusercontent.com/86376728/229305813-5f37e9c8-7c5f-45de-a46f-df7102ee0fbc.png)
+![image](https://user-images.githubusercontent.com/86376728/229305837-399761f0-bb3b-423b-ac47-e7e9ae36e6bf.png)
+
+  
   
 
 
