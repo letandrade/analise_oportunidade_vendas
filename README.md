@@ -52,10 +52,12 @@ Para fazer a previsão de vendas média das lojas do cluster 0 e 4 para os próx
  
  ### 3.3.1 Modelo SARIMAX (0, 1, 1) x (0, 1, 1, 52)
 ![image](https://user-images.githubusercontent.com/86376728/229305813-5f37e9c8-7c5f-45de-a46f-df7102ee0fbc.png)
- ### 3.3.1 Modelo SARIMAX (0, 1, 2) x (0, 1, [1], 52)
+ ### 3.3.3 Modelo SARIMAX (0, 1, 2) x (0, 1, [1], 52)
 ![image](https://user-images.githubusercontent.com/86376728/229305837-399761f0-bb3b-423b-ac47-e7e9ae36e6bf.png)
   
 ### 4.0 Conclusão
+  
+As perguntas alvo foram respondidas através da segregação das lojas em 5 clusters, bem como a enumeração das características de cada grupo. Sendos os mais relevantes os clusters 0 e 4 por representarem juntos 63% do total de vendas. Além disso, foi desenvolvido um modelo de previsão da demanda média para os próximo 6 meses das lojas do cluster 0 e 4, os modelos apresentaram uma boa performace conforme descrito nos itens (3.3.1 e 3.3.2) e conseguiram ser sensíveis aos eventos do mercado.
 
   
   
