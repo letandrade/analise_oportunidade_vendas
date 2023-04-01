@@ -9,7 +9,7 @@ A empresa A-Tech atua no mercado brasileiro de varejo desde 2005. São 45 lojas 
   
 ### 1.1 Perguntas
   
-1. Previsão da demanda – Qual o planejamento de venda das lojas para os próximos 6 meses? Quais as variáveis mais importantes na previsão?
+1. Previsão da demanda – Qual o planejamento de venda das lojas para os próximos 6 meses? 
 2. Segmentação de lojas - Sabemos que nem todas as lojas são iguais. Algumas lojas têm sazonalidade mais forte, outras são mais afetadas pelos feriados e algumas lojas são afetadas também pela região na qual estão localizadas. O entendimento desses grupos facilita a gestão dos estoques e metas dos gestores. É possível segregar as lojas em grupos? Quais as características
 de cada grupo?
   
@@ -42,9 +42,13 @@ Os resulatdos do cluster foram aplicados a uma matriz BCG, essa ferramenta permi
  ### 3.3 Modelo de previsão da venda média das lojas do cluster 0 e do cluster 4
   
 Para fazer a previsão de vendas média das lojas do cluster 0 e 4 para os próximos 6 meses utilizei o modelo de séries temporal ARIMA e para encontrar o modelo ARIMA ideal apliquei a função autoarima. 
-  
+ 
+ ### 3.3.1 Modelo SARIMAX (0, 1, 1) x (0, 1, 1, 52)
 ![image](https://user-images.githubusercontent.com/86376728/229305813-5f37e9c8-7c5f-45de-a46f-df7102ee0fbc.png)
+ ### 3.3.1 Modelo SARIMAX (0, 1, 2) x (0, 1, [1], 52)
 ![image](https://user-images.githubusercontent.com/86376728/229305837-399761f0-bb3b-423b-ac47-e7e9ae36e6bf.png)
+  
+### 4.0 Conslusão
 
   
   
