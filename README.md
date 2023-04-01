@@ -1,17 +1,22 @@
 # Análise de oportunidades de venda
 
 ### 1.0 Descrição
+Em 2022 fui selecionada entre 3k+ pessoas a ingressar na turma de Capacitação em Ciência de Dados da Vai Academy em parceria com a Americanas. O programa teve duração de 12 semanas (08/08/2022 a 24/10/2022) e agregou conhecimentos de manipulação de dados e aprendizado de máquina. 
+
+Ao final da capacitação foi proposto um case técnico de uma empresa fictícia do ramo do varejo, a A-Tech. O case foi um método de obtenção de nota e aprovação, e como resultado ocupei o top 10 das melhores resoluções.
+
+### 1.1 Case A - Tech
+
 A empresa A-Tech atua no mercado brasileiro de varejo desde 2005. São 45 lojas físicas distribuídas em diferentes regiões. Cada loja possui diversos departamentos, nos quais as vendas acontecem.
 <p>Os eventos que acontecem ao longo do ano afetam bastante as vendas, mas cada departamento é afetado de forma diferente. A empresa A-Tech também faz ofertas ao longo do ano sempre antes de eventos importantes. Os principais eventos são: Carnaval (Fevereiro), Independência (Setembro), Black Friday (Novembro) e Natal (Dezembro). As remarcações de preços/descontos que acontecem antes desses eventos impactam as vendas e têm um peso cinco vezes maior na avaliação do que as semanas que não possuem feriado.
 <p>A diretora de negócios da A-Tech, Gabriela, deseja reavaliar sua posição no mercado e identificar novas estratégias para se diferenciar da concorrência, melhorando a previsão de como e quais departamentos terão mais oportunidades.
 <p>A equipe de dados da A-Tech está totalmente dedicada a um projeto de transformação digital, priorizado pelo CEO, e não poderá realizar estas análises no momento.
 <p>O seu time foi selecionado para realizar as análises dos dados disponíveis e apresentar para o time da A-Tech. Sua apresentação servirá de input para o planejamento estratégico da área.
   
-### 1.1 Perguntas
+### 1.1.1 Perguntas
   
 1. Previsão da demanda – Qual o planejamento de venda das lojas para os próximos 6 meses? 
-2. Segmentação de lojas - Sabemos que nem todas as lojas são iguais. Algumas lojas têm sazonalidade mais forte, outras são mais afetadas pelos feriados e algumas lojas são afetadas também pela região na qual estão localizadas. O entendimento desses grupos facilita a gestão dos estoques e metas dos gestores. É possível segregar as lojas em grupos? Quais as características
-de cada grupo?
+2. Segmentação de lojas - Sabemos que nem todas as lojas são iguais. Algumas lojas têm sazonalidade mais forte, outras são mais afetadas pelos feriados e algumas lojas são afetadas também pela região na qual estão localizadas. O entendimento desses grupos facilita a gestão dos estoques e metas dos gestores. É possível segregar as lojas em grupos? Quais as características de cada grupo?
   
  ### 2.0 Como usar o projeto
 ➝ Linguagem Python
@@ -48,7 +53,7 @@ Para fazer a previsão de vendas média das lojas do cluster 0 e 4 para os próx
  ### 3.3.1 Modelo SARIMAX (0, 1, 2) x (0, 1, [1], 52)
 ![image](https://user-images.githubusercontent.com/86376728/229305837-399761f0-bb3b-423b-ac47-e7e9ae36e6bf.png)
   
-### 4.0 Conslusão
+### 4.0 Conclusão
 
   
   
