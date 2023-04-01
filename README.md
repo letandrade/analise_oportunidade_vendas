@@ -1,7 +1,7 @@
 # Análise de oportunidades de venda
 
 ### 1.0 Descrição
-Em 2022 fui selecionada entre 3k+ pessoas a ingressar na turma de Capacitação em Ciência de Dados da Vai Academy em parceria com a Americanas. O programa teve duração de 12 semanas (08/08/2022 a 24/10/2022) e agregou conhecimentos de manipulação de dados e aprendizado de máquina. 
+Em 2022 fui selecionada entre 7k+ pessoas a ingressar na turma de Capacitação em Ciência de Dados da Vai Academy em parceria com a Americanas. O programa teve duração de 12 semanas (08/08/2022 a 24/10/2022) e agregou conhecimentos de manipulação de dados e aprendizado de máquina. https://www.americanas-turma.vai.academy/
 
 Ao final da capacitação foi proposto um case técnico de uma empresa fictícia do ramo do varejo, a A-Tech. O case foi um método de obtenção de nota e aprovação, e como resultado ocupei o top 10 das melhores resoluções.
 
